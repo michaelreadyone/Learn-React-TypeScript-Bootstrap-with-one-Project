@@ -57,4 +57,17 @@ create interface for type
 Creating some components
 Use Typescript with Props
 
+```question
+FC
+props
+need to recap react class
+```
+
 --- 30:12 ---
+
+adding Card component
+
+--- 33:51 ---
+
+delete function
+use typescript with functions
