@@ -71,3 +71,7 @@ adding Card component
 
 delete function
 use typescript with functions
+
+
+--- 39:22 ---
+
