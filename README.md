@@ -53,3 +53,8 @@ create interface for type
 
 
 --- 17:45 ---
+
+Creating some components
+Use Typescript with Props
+
+--- 30:12 ---

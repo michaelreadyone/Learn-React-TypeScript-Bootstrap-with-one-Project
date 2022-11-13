@@ -1,9 +1,20 @@
-import React from 'react'
+import * as React from 'react';
+import Container from 'react-bootstrap/esm/Container';
+import Navbar from 'react-bootstrap/esm/Navbar';
 
-function Header() {
-  return (
-    <div>Header</div>
-  )
+interface IHeaderProps {
 }
 
-export default Header
+const Header: React.FunctionComponent<IHeaderProps> = (props) => {
+  return (
+    <Navbar fixed="top" bg="dark" variant="dark">
+        <Container>
+            <Navbar.Brand>
+                React Typescript Bootstrap Tutorial
+            </Navbar.Brand>
+        </Container>
+    </Navbar>
+  );
+};
+
+export default Header;
