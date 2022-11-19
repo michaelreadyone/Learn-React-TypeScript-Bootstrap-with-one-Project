@@ -27,7 +27,7 @@ function App() {
         </Row>
         <Row>
           <Col>
-            <CreateNotes />
+            <CreateNotes notes={notes} setNotes={setNotes}/>
           </Col>
         </Row>
       </Container>
