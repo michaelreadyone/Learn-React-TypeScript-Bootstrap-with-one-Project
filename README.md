@@ -73,5 +73,7 @@ delete function
 use typescript with functions
 
 
---- 39:22 ---
+--- 39:22 --- adding a new note 
+
+
 
